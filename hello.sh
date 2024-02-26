@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello from the other side!!!"
+echo "Hello Africa!!!"
